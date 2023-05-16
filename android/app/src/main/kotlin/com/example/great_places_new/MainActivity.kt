@@ -1,0 +1,6 @@
+package com.example.great_places_new
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
